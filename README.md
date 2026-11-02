@@ -210,9 +210,9 @@ plt.show()
 
 
 ### Developed By:
-**Name:** PRIYANKA P
+**Name:** Sharan Kumar G
 
-### Register No: 212224230212
+### Register No: 212224230260
 
 ---
 
@@ -221,21 +221,27 @@ plt.show()
 ### Image Translation
 - Original image is displayed  
 - Translated image (shifted right and down) is displayed
-<img width="1016" height="338" alt="image" src="https://github.com/user-attachments/assets/1378c416-4491-426e-8d87-5b2637056318" />
+<img width="635" height="512" alt="image" src="https://github.com/user-attachments/assets/3e25ed2c-8fe5-4bf1-a71e-5c24f8255c2f" />
+
+
 
 
 ### Image Scaling
 - Original image is displayed  
 - Downscaled image (0.5×) is displayed  
 - Upscaled image (2×) is displayed
-<img width="1357" height="297" alt="image" src="https://github.com/user-attachments/assets/cc4029fb-2a3e-4b10-b8bb-ec9f80253702" />
+<img width="646" height="240" alt="image" src="https://github.com/user-attachments/assets/14cd091f-92e4-4fbd-8ef5-b54dd8a15be1" />
+
+
 
 
 ### Image Shearing
 - Original image is displayed  
 - Horizontally sheared image is displayed  
 - Vertically sheared image is displayed
-<img width="1350" height="296" alt="image" src="https://github.com/user-attachments/assets/d8b09ad3-cb23-461a-b605-b64b220d4cc3" />
+
+  <img width="636" height="517" alt="image" src="https://github.com/user-attachments/assets/e0badf06-ffcf-436b-ae0b-e595b3f70bf9" />
+
 
 
 ### Image Reflection
@@ -243,14 +249,16 @@ plt.show()
 - Horizontally flipped image is displayed  
 - Vertically flipped image is displayed  
 - Both-axis flipped image is displayed
-<img width="990" height="856" alt="image" src="https://github.com/user-attachments/assets/73ae08d2-dde1-49da-9459-d3a02d503e09" />
+<img width="646" height="507" alt="image" src="https://github.com/user-attachments/assets/f72548d2-2cff-4a18-9d93-ec71fb592fe4" />
+
 
 
 ### Image Rotation
 - Original image is displayed  
 - 45° rotated image is displayed  
 - 90° rotated image is displayed
-<img width="1352" height="301" alt="image" src="https://github.com/user-attachments/assets/1479bd40-eda4-4298-a636-2e5bcc025275" />
+<img width="651" height="522" alt="image" src="https://github.com/user-attachments/assets/a5b57bb7-41a4-4154-b38e-7e52fd7966c2" />
+
 
 
 ---
